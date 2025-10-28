@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=FFFFFF" height="20"/>
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=FFFFFF" height="20"/>
   <img src="https://img.shields.io/badge/Javascript-FFFF00?style=flat-square&logo=Javascript&logoColor=FFFFFF" height="20"/>
+  <img src="https://img.shields.io/badge/Typescript-147EFB?style=flat-square&logo=Typescript&logoColor=FFFFFF" height="20"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=FFFFFF" height="20"/>
 </p>
 </div>
