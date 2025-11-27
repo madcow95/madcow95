@@ -1,14 +1,29 @@
-<div align=center>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madcow95&show_icons=true&theme=dark&locale=en" alt="wotjs020708" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madcow95&ayout=&layout=compact&theme=dark" /></p>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/iOS-ffffff?style=flat-square&logo=iOS&logoColor=000000" height="20"/>
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=FFFFFF" height="20"/>
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=FFFFFF" height="20"/>
-  <img src="https://img.shields.io/badge/Javascript-FFFF00?style=flat-square&logo=Javascript&logoColor=FFFFFF" height="20"/>
-  <img src="https://img.shields.io/badge/Typescript-147EFB?style=flat-square&logo=Typescript&logoColor=FFFFFF" height="20"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=FFFFFF" height="20"/>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=HELLO;I'm+FE+Developer;Swift+%26%26+React+%2B+JS+%7C%7C+TS;Enjoy+Coding" alt="Typing SVG" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=madcow95&show_icons=true&theme=transparent&hide_border=true&title_color=fff&text_color=ccc&icon_color=F05138" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madcow95&layout=compact&theme=transparent&hide_border=true&title_color=fff&text_color=ccc" height="150" alt="languages graph" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white" />
+  
+  <br />
+  
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  
+  <br />
+  
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
