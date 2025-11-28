@@ -2,21 +2,30 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # 매일 자정 실행 (Timer 처럼)
-  workflow_dispatch: # 수동 실행 가능
+    - cron: "0 0 * * *" 
+  workflow_dispatch: 
+
+# iOS의 Info.plist 권한 설정과 동일. 쓰기 권한을 명시적으로 부여함.
+permissions: 
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@v1
-        with:
-          github_user_name: madcow95 # 네 아이디
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+      - uses: actions/checkout@v3
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      # 뱀 생성 액션 최신 버전 (v3)
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: madcow95
+          # 출력할 파일 리스트 (다크모드용 팔레트 적용)
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # 생성된 파일을 output 브랜치에 푸시하는 액션 (v3)
+      - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
